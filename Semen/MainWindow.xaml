@@ -13,5 +13,6 @@
             <TextBlock x:Name="MacAddressText" Margin="0 5" />
             <Button Content="Активировать продукт" Click="ActivateLicenseButton_Click" Width="150" Height="30" />
         </StackPanel>
+        <TextBlock Margin="236,139,204,279" ><Run Text="купил както чукча билет на автобус и не поехал и говорит "/><Run Language="ru-ru" Text=":"/></TextBlock>
     </Grid>
 </Window>
