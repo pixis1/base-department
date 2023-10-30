@@ -1,0 +1,17 @@
+﻿<Window x:Class="Semen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Semen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Проверка лицензии" FontSize="16" Margin="0 0 0 20" />
+            <TextBlock Text="Действующий MAC-адрес:" />
+            <TextBlock x:Name="MacAddressText" Margin="0 5" />
+            <Button Content="Активировать продукт" Click="ActivateLicenseButton_Click" Width="150" Height="30" />
+        </StackPanel>
+    </Grid>
+</Window>

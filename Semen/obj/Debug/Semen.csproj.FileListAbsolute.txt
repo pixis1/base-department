@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Semen\bin\Debug\Semen.exe.config
+C:\Users\User\source\repos\Semen\bin\Debug\Semen.exe
+C:\Users\User\source\repos\Semen\bin\Debug\Semen.pdb
+C:\Users\User\source\repos\Semen\obj\Debug\Semen.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Semen\obj\Debug\Semen.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Semen\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Semen\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Semen\obj\Debug\Semen_MarkupCompile.cache
+C:\Users\User\source\repos\Semen\obj\Debug\Semen_MarkupCompile.lref
+C:\Users\User\source\repos\Semen\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Semen\obj\Debug\Semen.g.resources
+C:\Users\User\source\repos\Semen\obj\Debug\Semen.Properties.Resources.resources
+C:\Users\User\source\repos\Semen\obj\Debug\Semen.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Semen\obj\Debug\Semen.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Semen\obj\Debug\Semen.exe
+C:\Users\User\source\repos\Semen\obj\Debug\Semen.pdb
